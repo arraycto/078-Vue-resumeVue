@@ -19,7 +19,7 @@
     <section class="contact">
       <ul>
         <li>
-          <a href="https://blog.csdn.net/qq_28505809">
+          <a href="https://blog.csdn.net/qq_28505809" target="_blank">
             <span class="contact-link">我的技术博客（CSDN）</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
@@ -30,7 +30,7 @@
           </a>
         </li>
         <li>
-          <a href="https://github.com/GuoyiZhang">
+          <a href="https://github.com/GuoyiZhang" target="_blank">
             <span class="contact-link">Github - GuoyiZhang</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
@@ -41,7 +41,7 @@
           </a>
         </li>
         <li>
-          <a href="mailto:1806242240@qq.com">
+          <a href="mailto:1806242240@qq.com" target="_blank">
             <span class="contact-link">1806242240@qq.com</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
@@ -52,7 +52,7 @@
           </a>
         </li>
         <li>
-          <a href="tel:17809298760">
+          <a href="tel:17809298760" target="_blank">
             <span class="contact-link">17809298760</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
