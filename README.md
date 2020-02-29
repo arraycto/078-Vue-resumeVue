@@ -24,7 +24,7 @@ npm install
 npm run dev
 
 # 打包上线
-npm run pub
+npm run build
 ```
 
 ## 后续开发计划
