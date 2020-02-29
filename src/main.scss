@@ -1,7 +1,7 @@
 @import "../node_modules/compass-mixins/lib/compass/reset";
 @import "../node_modules/compass-mixins/lib/compass/css3";
 
-$color-gray: #d1d1d1;
+$color-gray: #ababab;
 $color-green: #3591df;
 $font-family: 'Helvetica Neue', Helvetica, Arial, "Microsoft YaHei", sans-serif;
 
@@ -95,7 +95,7 @@ a {
 
   .title {
     width: 100%;
-    border-bottom: 2px solid #ffffff33;
+    border-bottom: 1px solid #ffffff38;
     font-size: 52px;
     font-weight: 300;
     overflow: hidden;
@@ -123,8 +123,9 @@ a {
       letter-spacing: 5px;
       @media screen and (max-width: 720px) {
         letter-spacing: 0;
+        font-size: 48px;
         line-height: 1.25;
-        margin-top: 10px;
+        margin-top: 16px;
       }
 
       small {
@@ -149,12 +150,14 @@ a {
       text-align: center;
     }
 
+
     h2 {
       display: inline-block;
       font-size: 24px;
       @media screen and (max-width: 720px) {
         border-top: 1px solid #ffffff38;
         margin: 5px auto 0;
+        font-size: 20px;
         padding: 10px;
       }
     }
@@ -270,6 +273,7 @@ a {
     ul {
       li {
         margin-top: 4px;
+        font-size: 13px;
         margin-left: 16px;
         list-style: square;
       }
@@ -298,14 +302,15 @@ a {
       }
 
       ol .project-1:before, ol .project-2 span {
-        font: italic 1em Georgia, Times, serif;
-        color: #999;
+        //font: italic 1em Georgia, Times, serif;
+        font: 1em "等线";
+        color: #333333;
         list-style-type: upper-roman;
         font-size: 14px
       }
 
       ol .project-1:before {
-        font-size: 18px;
+        font-size: 15px;
         content: counter(level1) ". ";
         counter-increment: level1;
       }
@@ -432,6 +437,7 @@ a {
     background: #F3F3F2;
     border-radius: 6px;
     padding: 6px;
+    color: #545454;
     font-family: "等线";
     font-size: 13px;
     line-height: 22px;

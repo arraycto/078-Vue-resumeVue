@@ -12,7 +12,7 @@
           <!--经历:绿豆芽科技-->
           <div class="item">
             <header class="item-hd">
-              <h3 class="item-name">西安绿豆芽信息科技有限公司</h3>
+              <h3 class="item-name">西安绿豆芽信息科技有限公司(西安)</h3>
               <span class="item-time">2018.01 至 2020.02</span>
               <a class="btn item-more"
                  href="https://baike.baidu.com/item/%E8%A5%BF%E5%AE%89%E7%BB%BF%E8%B1%86%E8%8A%BD%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8"
@@ -161,7 +161,7 @@
           <!--经历:伴知旅行-->
           <div class="item">
             <header class="item-hd">
-              <h3 class="item-name">河南伴知旅行网络科技有限公司</h3>
+              <h3 class="item-name">河南伴知旅行网络科技有限公司(郑州)</h3>
               <span class="item-time">2017.07 至 2017.12</span>
               <a class="btn item-more" href="https://baike.baidu.com/item/%E4%BC%B4%E7%9F%A5%E6%97%85%E8%A1%8C"
                  title="点击查看->伴知旅行百度百科">工作</a>
@@ -256,13 +256,6 @@
                 <li>熟练使用消息中间件Rabbit MQ、kafka等开源中间件，有Rabbit MQ实际项目开发使用经验</li>
                 <li>了解Spring cloud，正学习Spring cloud在企业大型应用中的应用，以及大型应用的微服务化及服务治理知识学习</li>
                 <li>有金融交易、区块链及数字货币行业独立工作经验</li>
-
-                <li>熟知JS基本语法与知识，掌握最新JS语法与API，熟练TypeScript</li>
-                <li>掌握网页重构所需的CSS、SCSS</li>
-                <li>掌握前端流行框架React、Vue、Angular</li>
-                <li>掌握<a
-                  href="https://chrome.google.com/webstore/detail/%E4%BD%8E%E4%BB%B7%E9%9B%B7%E8%BE%BE/hgbfabcmmeahnfcodhpompojenmpoiam?hl=zh-CN">Chrome扩展开发</a>及自动化控制
-                </li>
               </ul>
             </div>
           </div>
@@ -300,7 +293,6 @@
               </ul>
             </div>
           </div>
-
 
           <!--WEB前端开发-->
           <div class="item">
@@ -345,8 +337,8 @@
             </header>
             <div class="item-bd">
               <ul class="section-content">
-                <li>掌握golang基本语法与标准库</li>
-                <li>用golang开发过小型项目服务</li>
+                <li>熟悉Golang基本语法与标准库</li>
+                <li>用Golang开发过小型项目服务</li>
               </ul>
             </div>
           </div>
@@ -373,7 +365,7 @@
             <div class="item-bd">
               <ul class="section-content">
                 <li>掌握Java、PHP、Golang、C、Git、Docker、硬件开发</li>
-                <li>大学毕设：家用物联网控制系统</li>
+                <li>本科毕设：智能家电物联网控制系统</li>
                 <li>资深Mac & JetBrains用户</li>
               </ul>
             </div>
