@@ -5,7 +5,7 @@
         <h1>张国毅</h1>
       </div>
       <div class="job">
-        <h2>Java后端开发工程师 | 全栈工程师</h2>
+        <h2>Java后端工程师 | 全栈工程师</h2>
       </div>
     </section>
     <section class="info">

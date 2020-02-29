@@ -163,6 +163,14 @@ a {
   .info {
     float: left;
     line-height: 22px;
+
+    ul {
+      margin: 8px 0 4px;
+      @media screen and (max-width: 720px) {
+        text-align: center;
+        margin: 16px 0 0;
+      }
+    }
   }
 
   .contact {

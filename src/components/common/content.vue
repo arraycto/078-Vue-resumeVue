@@ -403,7 +403,7 @@
                   <a href="https://github.com/GuoyiZhang" target="_blank">Github</a>
                 </li>
                 <li>
-                  <a href="https://www.guoyi.pro" target="_blank">个人网站</a>
+                  <a href="http://www.guoyi.pro" target="_blank">个人网站主页</a>
                 </li>
               </ul>
             </div>
